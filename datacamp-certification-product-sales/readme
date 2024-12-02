@@ -1,1 +1,9 @@
+datacamp-certification-product-sales is part of Data Analyst Professional certification by Datacamp.
 
+The certification process includes 4 stages:
+  1. MCQ exam on fundamentals of statistics and SQL.
+  2. MCQ exam on coding-related problems: mostly statistical analysis, data management, and plotting. (Technologies: R/Python)
+  3. Project on analyzing product sales data provided by DataCamp. Details about the project will be found in the instructions. 
+  4. Video recorded presentation on the findings of the analysis of product sales data.
+
+In this repo, I am sharing the codes and presentation slides that I have used to excel in this certification exam.
